@@ -1,4 +1,4 @@
-
+ghjhhuu
 # Disposable Email Domain List
 
 In this repository you will find a collection of temporary email domains. You can import them into your newsletter software and filter from which addresses new subscribers subscribe.
